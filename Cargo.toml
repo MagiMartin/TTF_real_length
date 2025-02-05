@@ -1,9 +1,0 @@
-[package]
-name = "TTF_length"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-clap = { version = "4.5.26", features = ["derive"] }
-ttf-parser = "0.25.1"
-
